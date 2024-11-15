@@ -1,2 +1,2 @@
 # Read-me
-I am a first year at the University of San Francisco currently interested in game design.
+I am a first year at the University of San Francisco currently interested in game design, web development and cyber security. I have experience with coding in HTML and CSS, Python, and C++. I have been involved in engineering related competitions all my life so I also have lots of experience in team manegment and in product designing. I am very interested in the political side of the tech industry which is why I plan on going to law school after completing my bachelors at USFca. Please feel free to reach out for any colaborations in projects and future job search.
